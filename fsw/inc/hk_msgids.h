@@ -47,7 +47,6 @@
 #define HK_COMBINED_PKT2_MID 0x089D /**< \brief HK Combined Packet 2 Message ID */
 #define HK_COMBINED_PKT3_MID 0x089E /**< \brief HK Combined Packet 3 Message ID */
 #define HK_COMBINED_PKT4_MID 0x089F /**< \brief HK Combined Packet 4 Message ID */
-
 /**\}*/
 
 #endif
